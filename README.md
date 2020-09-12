@@ -1,10 +1,9 @@
 
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-    <title>COMP9319 2020T2 Assignment 2</title>
 </head>
 <body>
-<h1>COMP9319 2020T2 Assignment 2: Searching & Decoding BWT Encoded DNA Sequence</h1>
+<h1>Searching & Decoding BWT Encoded DNA Sequence</h1>
 Your task in this assignment is to create two programs: a search program called <b> bwtsearch</b> that implements BWT backward search, which can efficiently search a BWT encoded DNA file; and a decoder program called <b> bwtdecode</b> that efficiently decodes BWT encoded DNA file back to its original DNA sequence. 
 In addition to correctness, your assignment solution also needs to satisfy some performance requirements.
 <br/>
