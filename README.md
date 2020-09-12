@@ -243,28 +243,4 @@ We will use the commands below to compile your solution.  Please ensure that the
 <pre>    make
 </pre>
  Any solution that has compilation errors will receive zero points for the entire assignment.
-
-
-<h2>Bonus</h2>
-Bonus marks (worth 10 percent of the assignment total score) will be awarded for the solution that passes all the tests (correct; and within the memory and time limits) and runs the fastest overall (i.e., the shortest total time to finish <b>all</b> the tests). 
-Note: regardless of the bonus marks you receive in this assignment, the maximum final mark for the subject is capped at 100.
-
-
-
-<h2>Submission and Marking</h2>
-<b><font style="background-color:yellow;">Deadline: (Week 9) Monday 27th July 09:00am</font></b>. Late submissions will attract a 1% penalty of the total mark achievable for this assignment per hour after the deadline (i.e., 24% per day), and no submissions will be accepted after 3 days late.
-Use the give command below to submit the assignment:
-<pre>    give cs9319 a2 makefile *.h *.c *.cpp 
-</pre>
-Or submit via WebCMS: Login to Course Web Site > Assignments > Assignment 2 > Assignment 2 Specification > Make Submission > upload required files > [Submit]
-<br/><br/>
-This assignment is worth 35 points, and will be auto-marked. Your code will also be checked manually for readability and plagiarism.
-
-
-<h2>Plagiarism</h2>
-The work you submit must be your own work. Submission of work partially or completely derived from any other person or jointly written with any other person is not permitted. 
-The penalties for such an offence may include negative marks, automatic failure of the course and possibly other academic discipline. 
-Assignment submissions will be examined both automatically and manually for such submissions. Please refer to Student Conduct/Plagiarism section of the Course Outline (at WebCMS) for details.
-
-
 </body></html>
